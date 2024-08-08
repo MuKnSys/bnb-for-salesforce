@@ -1,6 +1,6 @@
 # BNB for Salesforce
 
-![](documentation-and-images/binance-smart-chain.png)
+![](documentation-and-images/bnb-for-salesforce-logo.png)
 
 
 ## Copyright and License
